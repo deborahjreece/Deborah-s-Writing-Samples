@@ -1,8 +1,11 @@
 # Deborah-s-Writing-Samples
-Technical Writing Samples:
 
--- Included with these samples are Product, SDK, and API Guides from my work at IDEMIA. 
+These Technical Writer samples for Deborah Reece include:
 
--- The "Developer Portal Links..." document contains links to the IDEMIA developers portal for the specific guides that I worked on. 
+-- Product, SDK, and API Guides from my work at IDEMIA 
 
--- The samples also include are an API sample from AMEX and a business requirements document and runbook from Verizon.
+-- "Developer Portal Links..." document contains links to the IDEMIA developers portal for specific API/SDK guides that I worked on 
+
+-- An API guide from the AMEX developers portal
+
+-- A business requirements document and runbook from Verizon
