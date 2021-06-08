@@ -1,5 +1,5 @@
 # Deborah-s-Writing-Samples
-Technical Writing Samples
+Technical Writing Samples:
 
 -- Included with these samples are Product, SDK, and API Guides from my work at IDEMIA. 
 
